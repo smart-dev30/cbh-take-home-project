@@ -67,7 +67,7 @@ And also implement API endpoints for these functionalities:
 
 Implement unit tests for these API endpoints.
 
-Story points: 2 d
+Story points: 2
 
 ### Ticket 3
 
@@ -81,4 +81,4 @@ DESCRIPTION:
 2. Get the actual internal db id for `Agents` table.
 3. Once we fetch all shifts with proper agents, then we can generate reports for given quarter.
 
-Story points: 1 d
+Story points: 1
